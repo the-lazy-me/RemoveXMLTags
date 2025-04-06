@@ -37,6 +37,7 @@
 ```
 或查看详细的[插件安装说明](https://docs.langbot.app/plugin/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
 
-## 使用
+## 功能
 
-<!-- 插件开发者自行填写插件使用说明 -->
+收到消息时，移除消息中的所有XML标签及其内容，包括：
+<think>、<details>、<summary>、<thinking> 和文末的 <sources> 标签
