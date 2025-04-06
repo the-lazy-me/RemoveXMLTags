@@ -40,4 +40,4 @@
 ## 功能
 
 收到消息时，移除消息中的所有XML标签及其内容，包括：
-<think>、<details>、<summary>、<thinking> 和文末的 <sources> 标签
+`<think>`、`<details>`、`<summary>`、`<thinking>` 和文末的 `<sources>` 标签
